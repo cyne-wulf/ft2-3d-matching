@@ -1,8 +1,8 @@
 # Pi-First 3D Deal Matching Workshop
 
-This repo is the attendee version of the 3D deal matching workshop. It gives you a clone-and-run pipeline for turning company records and synthetic founder/team profiles into semantic text, local embeddings, vector search results, scored leads, Airtable review rows, precision/recall metrics, and a Deal Review Workspace.
+This repo gives you a clone-and-run pipeline for turning company records and synthetic founder/team profiles into semantic text, local embeddings, vector search results, scored leads, Airtable review rows, precision/recall metrics, and a Deal Review Workspace.
 
-Pi is the workshop guide. LangGraph runs the auditable workflow. FastEmbed and Qdrant Local Mode provide local retrieval. Airtable is the human review queue.
+Pi is the guide. LangGraph runs the auditable workflow. FastEmbed and Qdrant Local Mode provide local retrieval. Airtable is the human review queue.
 
 ## What You Will Run
 
