@@ -1,0 +1,7 @@
+company_id,name,category_code,status,country_code,founded_year,funding_total_usd,funding_rounds,description
+c001,OpsPilot,software,operating,USA,2021,4200000,2,Workflow automation platform for internal operations teams that coordinates approvals exceptions and audits.
+c002,ComplyGrid,enterprise,operating,USA,2020,7800000,2,Compliance automation software that maps controls evidence collection and review workflows.
+c003,DataForge,analytics,operating,USA,2018,24000000,4,Analytics workspace for marketing teams with dashboards attribution and campaign reporting.
+c004,RoboFoundry,hardware,operating,DEU,2016,19000000,3,Industrial robotics systems for warehouse picking and physical automation.
+c005,InfraWeave,software,operating,CAN,2022,3200000,1,AI infrastructure orchestration layer for deploying internal business copilots and task agents.
+c006,Wellnest,health,operating,USA,2019,9000000,3,Consumer wellness marketplace focused on appointment booking and nutrition coaching.

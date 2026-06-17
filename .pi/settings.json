@@ -1,0 +1,31 @@
+{
+  "name": "Pi-First 3D Deal Matching Workshop",
+  "default_agent": "deal-matching-guide",
+  "commands": [
+    "pi-check",
+    "download-data",
+    "verify-data",
+    "prepare-sample",
+    "inspect-record",
+    "textify-record",
+    "vectorize-sample",
+    "start-vector-store",
+    "index-records",
+    "query-vector-store",
+    "compare-vectors",
+    "score-market-stage",
+    "rank-candidates",
+    "evaluate-leads",
+    "setup-airtable",
+    "verify-airtable",
+    "sync-airtable",
+    "read-airtable-labels",
+    "compute-metrics",
+    "render-review-workspace"
+  ],
+  "oauth_policy": {
+    "provider": "OpenAI OAuth through Pi login",
+    "repo_reads_tokens": false,
+    "repo_prints_tokens": false
+  }
+}
